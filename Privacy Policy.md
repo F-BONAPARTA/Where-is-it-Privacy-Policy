@@ -12,7 +12,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 -We don’t save or track any user activity inside the application. We give the users details about the availability of the product whatever he is. We are not a medical application.
 We don’t sell drugs.
-- the idea of the app that is help people to find their procucts easily.
+
+the idea of the app that is help people to find their procucts easily and the products type user can select from a lot of pre defined types not a specific type 
 
 **Information Collection and Use**
 
